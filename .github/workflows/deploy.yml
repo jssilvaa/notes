@@ -3,6 +3,7 @@ name: Deploy Quartz Notes
 on:
   push:
     branches: [main]
+  workflow_dispatch: 
 
 jobs:
   deploy:
