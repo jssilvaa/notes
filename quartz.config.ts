@@ -76,7 +76,7 @@ const config: QuartzConfig = {
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
-      Plugin.FolderPage(),
+      // Plugin.FolderPage(), // prevents clickable folder links in the sidebar
       Plugin.TagPage(),
       Plugin.ContentIndex({
         enableSiteMap: true,
