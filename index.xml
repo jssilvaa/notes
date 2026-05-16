@@ -6,59 +6,59 @@
       <description>Last 10 notes on José Silva - Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>liveness-analysis</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/liveness-analysis</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/liveness-analysis</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
-  </item><item>
-    <title>loop-optimization</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/loop-optimization</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/loop-optimization</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
-  </item><item>
-    <title>register-pressure</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/register-pressure</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/register-pressure</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
-  </item><item>
-    <title>ssa-form</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/ssa-form</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/ssa-form</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
-  </item><item>
     <title>Register Allocation &amp; Spilling via Graph Coloring</title>
     <link>https://jssilvaa.github.io/notes/20-embedded/compilers/chaitin-register-allocation-1982</link>
     <guid>https://jssilvaa.github.io/notes/20-embedded/compilers/chaitin-register-allocation-1982</guid>
     <description><![CDATA[ Summary Mapping unbounded symbolic registers to k physical registers is equivalent to k-coloring an interference graph; when k-coloring fails, nodes must be spilled to memory. ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
   </item><item>
     <title>Welcome</title>
     <link>https://jssilvaa.github.io/notes/Welcome</link>
     <guid>https://jssilvaa.github.io/notes/Welcome</guid>
     <description><![CDATA[ This is your new vault. Make a note of something, create a link, or try the Importer! When you’re ready, delete this note and make the vault your own. ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://jssilvaa.github.io/notes/</link>
     <guid>https://jssilvaa.github.io/notes/</guid>
-    <description><![CDATA[ Research notes on embedded systems, robotics, and control. ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
+    <description><![CDATA[ Research notes on embedded systems, robotics, and control theory. Distilled from papers, books, and implementation work. ]]></description>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
+  </item><item>
+    <title>liveness-analysis</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/liveness-analysis</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/liveness-analysis</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
+  </item><item>
+    <title>loop-optimization</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/loop-optimization</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/loop-optimization</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
+  </item><item>
+    <title>register-pressure</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/register-pressure</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/register-pressure</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
+  </item><item>
+    <title>ssa-form</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/ssa-form</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/ssa-form</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
   </item><item>
     <title>compiler-intermediate-representation</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
   </item><item>
     <title>graph-coloring</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/graph-coloring</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/graph-coloring</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 16 May 2026 14:35:18 GMT</pubDate>
+    <pubDate>Sat, 16 May 2026 14:49:16 GMT</pubDate>
   </item>
     </channel>
   </rss>
