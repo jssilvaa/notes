@@ -22,6 +22,7 @@ jobs:
       - name: Clone vault
         run: |
           git clone https://x-access-token:${{ secrets.VAULT_TOKEN }}@github.com/jssilvaa/research-vault.git vault
+          rm -rf content
           ln -s $(pwd)/vault content
 
       - name: Build
