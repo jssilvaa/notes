@@ -1,37 +1,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/centroidal-momentum-matrix</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</loc>
-    <lastmod>2026-05-16T20:32:17.535Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/contact-dynamics-LCP</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/differentiable-physics</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/forward-dynamics</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/graph-coloring</loc>
-    <lastmod>2026-05-16T20:32:17.535Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/liveness-analysis</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/llvm-codegen-pipeline</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/loop-optimization</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/pbqp</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/register-pressure</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/se3-adjoint</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/00-inbox/spatial-inertia</loc>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/00-inbox/ssa-form</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.782Z</lastmod>
+  </url><url>
+    <loc>https://jssilvaa.github.io/notes/10-robotics/algorithms/Spatial-Algebra-and-ABA</loc>
+    <lastmod>2026-05-18T21:19:54.783Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/20-embedded/compilers/Register-Allocation-and-Spilling</loc>
     <lastmod>2026-05-16T00:00:00.000Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/20-embedded/compilers/chaitin-register-allocation-1982</loc>
-    <lastmod>2026-05-16T20:32:17.536Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.783Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/Welcome</loc>
-    <lastmod>2026-05-16T20:32:17.537Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.784Z</lastmod>
   </url><url>
     <loc>https://jssilvaa.github.io/notes/</loc>
-    <lastmod>2026-05-16T20:32:17.537Z</lastmod>
+    <lastmod>2026-05-18T21:19:54.784Z</lastmod>
   </url></urlset>
