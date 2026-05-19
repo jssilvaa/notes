@@ -6,65 +6,65 @@
       <description>Last 10 notes on José Silva - Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Notes</title>
-    <link>https://jssilvaa.github.io/notes/</link>
-    <guid>https://jssilvaa.github.io/notes/</guid>
-    <description><![CDATA[ Research notes on embedded systems, robotics, and control theory. Distilled from papers, books, and implementation work. ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
+    <title>Register Allocation &amp; Spilling via Graph Coloring</title>
+    <link>https://jssilvaa.github.io/notes/20-embedded/compilers/chaitin-register-allocation-1982</link>
+    <guid>https://jssilvaa.github.io/notes/20-embedded/compilers/chaitin-register-allocation-1982</guid>
+    <description><![CDATA[ Summary Mapping unbounded symbolic registers to k physical registers is equivalent to k-coloring an interference graph; when k-coloring fails, nodes must be spilled to memory. ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
   </item><item>
     <title>Welcome</title>
     <link>https://jssilvaa.github.io/notes/Welcome</link>
     <guid>https://jssilvaa.github.io/notes/Welcome</guid>
     <description><![CDATA[ This is your new vault. Make a note of something, create a link, or try the Importer! When you’re ready, delete this note and make the vault your own. ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
+  </item><item>
+    <title>Notes</title>
+    <link>https://jssilvaa.github.io/notes/</link>
+    <guid>https://jssilvaa.github.io/notes/</guid>
+    <description><![CDATA[ Research notes on embedded systems, robotics, and control theory. Distilled from papers, books, and implementation work. ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
+  </item><item>
+    <title>spatial-inertia</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/spatial-inertia</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/spatial-inertia</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
+  </item><item>
+    <title>ssa-form</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/ssa-form</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/ssa-form</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
+  </item><item>
+    <title>Spatial algebra and the Articulated-Body Algorithm</title>
+    <link>https://jssilvaa.github.io/notes/10-robotics/algorithms/Spatial-Algebra-and-ABA</link>
+    <guid>https://jssilvaa.github.io/notes/10-robotics/algorithms/Spatial-Algebra-and-ABA</guid>
+    <description><![CDATA[ Summary Forward dynamics on a kinematic tree — given (q, \dot q, \tau, f^{ext}), solve for \ddot q — can be done in O(n) without ever forming the joint-space inertia M(q). ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
+  </item><item>
+    <title>CRBA-composite-rigid-body-algorithm</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
+  </item><item>
+    <title>Pinocchio-internals</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
   </item><item>
     <title>Pluecker-coordinates</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
   </item><item>
     <title>RNEA-recursive-newton-euler</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
-  </item><item>
-    <title>centroidal-momentum-matrix</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/centroidal-momentum-matrix</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/centroidal-momentum-matrix</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
-  </item><item>
-    <title>compiler-intermediate-representation</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
-  </item><item>
-    <title>contact-dynamics-LCP</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/contact-dynamics-LCP</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/contact-dynamics-LCP</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
-  </item><item>
-    <title>differentiable-physics</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/differentiable-physics</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/differentiable-physics</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
-  </item><item>
-    <title>forward-dynamics</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/forward-dynamics</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/forward-dynamics</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
-  </item><item>
-    <title>graph-coloring</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/graph-coloring</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/graph-coloring</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Tue, 19 May 2026 11:44:32 GMT</pubDate>
+    <pubDate>Tue, 19 May 2026 11:54:34 GMT</pubDate>
   </item>
     </channel>
   </rss>
