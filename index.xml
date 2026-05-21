@@ -6,65 +6,65 @@
       <description>Last 10 notes on José Silva - Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Friction-Cone Discretisation</title>
-    <link>https://jssilvaa.github.io/notes/10-robotics/control/Friction-Cone-Discretisation</link>
-    <guid>https://jssilvaa.github.io/notes/10-robotics/control/Friction-Cone-Discretisation</guid>
-    <description><![CDATA[ Summary The Coulomb friction model defines a convex cone of admissible contact forces; solving contact-rich QPs requires discretising this cone into either a linear pyramid approximation or an exact second-order cone. ]]></description>
-    <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>HZD and Virtual Constraints</title>
-    <link>https://jssilvaa.github.io/notes/10-robotics/control/HZD-and-Virtual-Constraints</link>
-    <guid>https://jssilvaa.github.io/notes/10-robotics/control/HZD-and-Virtual-Constraints</guid>
-    <description><![CDATA[ Summary Hybrid Zero Dynamics (HZD) provides the first formal stability proofs for periodic bipedal walking by reducing the full hybrid system to a low-dimensional zero-dynamics manifold and checking stability of the resulting Poincaré return map. ]]></description>
-    <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Observability of the Pseudo-Measurement and EKF Convergence</title>
-    <link>https://jssilvaa.github.io/notes/10-robotics/perception/Observability-of-the-Pseudo-Measurement-and-EKF-Convergence</link>
-    <guid>https://jssilvaa.github.io/notes/10-robotics/perception/Observability-of-the-Pseudo-Measurement-and-EKF-Convergence</guid>
-    <description><![CDATA[ Summary The contact wrench pseudo-measurement \hat{W} = (J(q)^\top)^+ (M(q)\ddot{q} + h(q,\dot{q}) - S^\top \tau_{\text{cmd}}) loses rank at kinematic singularities, making certain force directions unobservable to the EKF. ]]></description>
-    <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
-    <title>Real-Time Digital Twin Synchronisation</title>
-    <link>https://jssilvaa.github.io/notes/20-embedded/rtos/Real-Time-Digital-Twin-Synchronisation</link>
-    <guid>https://jssilvaa.github.io/notes/20-embedded/rtos/Real-Time-Digital-Twin-Synchronisation</guid>
-    <description><![CDATA[ Summary A digital twin (DT) running alongside a real-time controller is only as useful as the tightness of its synchronisation with the physical robot; non-RT kernels and default DDS configurations introduce jitter that silently lags the DT state by one or more control periods. ]]></description>
-    <pubDate>Thu, 21 May 2026 00:00:00 GMT</pubDate>
-  </item><item>
     <title>Welcome</title>
     <link>https://jssilvaa.github.io/notes/Welcome</link>
     <guid>https://jssilvaa.github.io/notes/Welcome</guid>
     <description><![CDATA[ To my vault. Here I store my notes from my MSc, projects I’m up to, research-related notes. ]]></description>
-    <pubDate>Wed, 20 May 2026 23:57:50 GMT</pubDate>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
   </item><item>
     <title>Notes</title>
     <link>https://jssilvaa.github.io/notes/</link>
     <guid>https://jssilvaa.github.io/notes/</guid>
     <description><![CDATA[ Research notes on embedded systems, robotics, and control theory. Distilled from papers, books, and implementation work. ]]></description>
-    <pubDate>Wed, 20 May 2026 23:57:50 GMT</pubDate>
-  </item><item>
-    <title>CRBA-composite-rigid-body-algorithm</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 20 May 2026 23:57:50 GMT</pubDate>
-  </item><item>
-    <title>Pinocchio-internals</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 20 May 2026 23:57:50 GMT</pubDate>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
   </item><item>
     <title>Pluecker-coordinates</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 20 May 2026 23:57:50 GMT</pubDate>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
   </item><item>
     <title>RNEA-recursive-newton-euler</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Wed, 20 May 2026 23:57:50 GMT</pubDate>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
+  </item><item>
+    <title>active-set-sensitivity-differentiable-mpc</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/active-set-sensitivity-differentiable-mpc</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/active-set-sensitivity-differentiable-mpc</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
+  </item><item>
+    <title>automatic-differentiation</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/automatic-differentiation</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/automatic-differentiation</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
+  </item><item>
+    <title>centroidal-momentum-matrix</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/centroidal-momentum-matrix</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/centroidal-momentum-matrix</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
+  </item><item>
+    <title>compiler-intermediate-representation</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/compiler-intermediate-representation</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
+  </item><item>
+    <title>contact-dynamics-LCP</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/contact-dynamics-LCP</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/contact-dynamics-LCP</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
+  </item><item>
+    <title>differentiable-physics</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/differentiable-physics</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/differentiable-physics</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 21 May 2026 00:02:45 GMT</pubDate>
   </item>
     </channel>
   </rss>
