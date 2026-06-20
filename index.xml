@@ -6,65 +6,65 @@
       <description>Last 10 notes on José Silva - Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Notes</title>
-    <link>https://jssilvaa.github.io/notes/</link>
-    <guid>https://jssilvaa.github.io/notes/</guid>
-    <description><![CDATA[ Research notes on embedded systems, robotics, and control theory. Taken from papers, books, and implementation work. ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
-  </item><item>
-    <title>Probabilistic Machine Learning</title>
-    <link>https://jssilvaa.github.io/notes/99-lecture-notes/Probabilistic-Machine-Learning</link>
-    <guid>https://jssilvaa.github.io/notes/99-lecture-notes/Probabilistic-Machine-Learning</guid>
-    <description><![CDATA[  Title a . ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
-  </item><item>
     <title>Welcome</title>
     <link>https://jssilvaa.github.io/notes/Welcome</link>
     <guid>https://jssilvaa.github.io/notes/Welcome</guid>
     <description><![CDATA[ To my vault. Here I store my notes from my MSc, projects I’m up to, research-related notes. ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
+  </item><item>
+    <title>Notes</title>
+    <link>https://jssilvaa.github.io/notes/</link>
+    <guid>https://jssilvaa.github.io/notes/</guid>
+    <description><![CDATA[ Research notes on embedded systems, robotics, and control theory. Taken from papers, books, and implementation work. ]]></description>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item><item>
     <title>Stochastic-MPC {WIP}</title>
     <link>https://jssilvaa.github.io/notes/10-robotics/control/Stochastic-MPC-%7BWIP%7D</link>
     <guid>https://jssilvaa.github.io/notes/10-robotics/control/Stochastic-MPC-%7BWIP%7D</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item><item>
     <title>Algorithmic-Differentiation &amp; Cpp-Codegen</title>
     <link>https://jssilvaa.github.io/notes/20-embedded/Algorithmic-Differentiation--and--Cpp-Codegen</link>
     <guid>https://jssilvaa.github.io/notes/20-embedded/Algorithmic-Differentiation--and--Cpp-Codegen</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
+  </item><item>
+    <title>CRBA-composite-rigid-body-algorithm</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/CRBA-composite-rigid-body-algorithm</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
+  </item><item>
+    <title>Pinocchio-internals</title>
+    <link>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</link>
+    <guid>https://jssilvaa.github.io/notes/00-inbox/Pinocchio-internals</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item><item>
     <title>Pluecker-coordinates</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/Pluecker-coordinates</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item><item>
     <title>RNEA-recursive-newton-euler</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/RNEA-recursive-newton-euler</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item><item>
     <title>Untitled</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/Untitled</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/Untitled</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item><item>
     <title>active-set-sensitivity-differentiable-mpc</title>
     <link>https://jssilvaa.github.io/notes/00-inbox/active-set-sensitivity-differentiable-mpc</link>
     <guid>https://jssilvaa.github.io/notes/00-inbox/active-set-sensitivity-differentiable-mpc</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
-  </item><item>
-    <title>automatic-differentiation</title>
-    <link>https://jssilvaa.github.io/notes/00-inbox/automatic-differentiation</link>
-    <guid>https://jssilvaa.github.io/notes/00-inbox/automatic-differentiation</guid>
-    <description><![CDATA[  ]]></description>
-    <pubDate>Sat, 20 Jun 2026 14:25:58 GMT</pubDate>
+    <pubDate>Sat, 20 Jun 2026 14:56:14 GMT</pubDate>
   </item>
     </channel>
   </rss>
